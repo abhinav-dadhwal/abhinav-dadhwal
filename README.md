@@ -43,6 +43,6 @@
 ## 🤝 Let’s Connect
 - 📧 **Email:** [dadwalabhinav57@gmail.com](mailto:dadwalabhinav57@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/abhinav-dadhwal](https://www.linkedin.com/in/abhinav-dadhwal)  
-- 🏆 **LeetCode:** [leetcode.com/YOUR_LEETCODE_ID](https://leetcode.com/YOUR_LEETCODE_ID)  
+- 🏆 **LeetCode:** [leetcode.com/YOUR_LEETCODE_ID](https://leetcode.com/abhinav_dadhwal)  
 
 ---
