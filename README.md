@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Dadhwal 👋
 
-**Full-Stack Developer · Python Engineer · Chandigarh, India**
+**Full-Stack Developer · Python Engineer · Bangalore, India**
 
 ---
 
