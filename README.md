@@ -1,51 +1,48 @@
 # Hi, I'm Abhinav Dadhwal 👋
 
-**Python Engineer · Chandigarh, India**
-
-I'm a developer interested in full‑stack work. Recently, I built a **Book E‑commerce** project using **.NET**, **HTML**, and **JavaScript**, implementing **ASP.NET Identity** and a **Generic Repository** pattern.
+**Full-Stack Developer · Python Engineer · Chandigarh, India**
 
 ---
 
-## 🔭 What I'm working on
-- Strengthening full‑stack fundamentals (backend in .NET, scripting in Python).
-- Building small utilities and services that I can deploy and showcase here.
-- Exploring data workflows (Pandas, basic ML/AI experiments).
-
-## 🧰 Tech & Tools
-- **Languages:** Python, C#, JavaScript, SQL  
-- **Frameworks/Libs:** .NET, ASP.NET Identity, Pandas  
-- **Web:** HTML, CSS  
-- **Practices:** REST APIs, Generic Repository, Git/GitHub
-
-## 💼 Experience
-- **Trainee, LOGIC ERP** — *Aug 2024 – Present, Mohali District, India*
-
-## 🎓 Education
-- **MCA (Data Science)** — Lovely Professional University *(Aug 2022 – Sep 2024)*  
-- **B.Sc. (Maths, Stats, IT)** — Goswami Ganesh Dutta SD College *(Aug 2019 – Jul 2022)*
-
-## 📦 Project Spotlight
-### Book E‑commerce
-A full‑stack app where I implemented:
-- User authentication/authorization with **Identity Framework**
-- **Generic Repository** pattern for clean data access
-- Frontend with **HTML, JavaScript**, and server‑side rendering
-> _I'll add the repo link here once I push it to GitHub._
-
-## 📫 Get in touch
-- **Email:** dadwalabhinav57@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/abhinav-dadhwal
+## 🧑‍💻 About Me
+- 🎓 MCA (Data Science) | B.Sc. (Maths, Stats, IT)
+- 💻 Building scalable, high-performance web applications
+- 🔭 Currently working as **Trainee at LOGIC ERP**
+- 🌱 Exploring **Python**, **.NET**, **React**, and **Data Workflows**
+- ⚡ Passionate about **problem-solving** & **clean architecture**
 
 ---
 
-### 🛠 How this README was generated
-This profile README was created from details in my LinkedIn PDF resume.  
-*Last updated: 2025-08-15*
+## 🛠 Tech Stack
+**Languages:** Python, C#, JavaScript, SQL  
+**Frameworks/Libraries:** .NET, ASP.NET Identity, Pandas, React  
+**Web:** HTML, CSS  
+**Practices:** REST APIs, Generic Repository, Git/GitHub  
+**Tools:** VS Code, Git, GitHub, Postman  
 
 ---
 
-> **Tip:** To make this your GitHub profile README:
-> 1) Create a repository named **YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME** (exact match).  
-> 2) Add this `README.md` at the root of that repo.  
-> 3) Commit and push — GitHub will display it on your profile.
+## 📊 GitHub Stats
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav-dadhwal&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-dadhwal&layout=compact&theme=tokyonight)
 
+---
+
+## 🎯 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhinav_dadhwal?theme=dark&font=Roboto&ext=heatmap)
+
+---
+
+## 🚀 Fun Projects & Contributions
+- **📚 Book E-commerce:** Full-stack app with ASP.NET Identity & Generic Repository Pattern *(Repo coming soon)*
+- **🛠 Utilities:** Small Python and .NET tools for workflow automation
+- **💡 Contributions:** Actively exploring open-source opportunities
+
+---
+
+## 🤝 Let’s Connect
+- 📧 **Email:** [dadwalabhinav57@gmail.com](mailto:dadwalabhinav57@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/abhinav-dadhwal](https://www.linkedin.com/in/abhinav-dadhwal)  
+- 🏆 **LeetCode:** [leetcode.com/YOUR_LEETCODE_ID](https://leetcode.com/YOUR_LEETCODE_ID)  
+
+---
