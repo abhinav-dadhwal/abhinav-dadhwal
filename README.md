@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Dadhwal 👋
 
-**Python Engineer · Chandigarh, India**
+**Python Engineer · bangalore, India**
 
 I'm a developer interested in full‑stack work. Recently, I built a **Book E‑commerce** project using **.NET**, **HTML**, and **JavaScript**, implementing **ASP.NET Identity** and a **Generic Repository** pattern.
 
